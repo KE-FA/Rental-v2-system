@@ -29,7 +29,7 @@
 
    </section>
 
-   <div class="credit">&copy; copyright @ <?= date('Y'); ?> by <span>gibz_nate(NIXOR)</span> | all rights reserved!</div>
+   <div class="credit">&copy; copyright @ <?= date('Y'); ?> by <span>SanchezKefa</span> | all rights reserved!</div>
 
 </footer>
 
